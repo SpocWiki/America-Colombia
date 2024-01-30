@@ -108,8 +108,8 @@ id: Chile
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Chile//
-markerFolder: ./Chile/
+geojsonFolder: .//
+markerFolder: ./
 ```
 
 [name-en::Chile] 
