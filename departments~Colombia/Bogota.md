@@ -27,7 +27,7 @@ publishDate:
 expiryDate: 
 ---
 
-# Bogota
+# [[Bogota]] 
 
 ```leaflet
 id: Bogota
