@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-76.37] 
-[geo-lat::2.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-76.37] 
+[has_place_latitude::2.45] 
 [name::Popayan] 
 State ::  
 Country :: [[../../../../Colombia]]  
