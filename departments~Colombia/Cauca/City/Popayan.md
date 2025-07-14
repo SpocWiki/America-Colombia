@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Popayan.public](/_public/\Earth\Continent\America~South\Colombia\departments~Colombia\Cauca\CityPopayan.public.md) 
+### [Popayan](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.md) 
 
-### [Popayan.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~Colombia\Cauca\CityPopayan.internal.md) 
+### [Popayan.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.public.md) 
 
-### [Popayan.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~Colombia\Cauca\CityPopayan.protect.md) 
+### [Popayan.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.internal.md) 
 
-### [Popayan.private](/_private/\Earth\Continent\America~South\Colombia\departments~Colombia\Cauca\CityPopayan.private.md) 
+### [Popayan.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.protect.md) 
 
-### [Popayan.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~Colombia\Cauca\CityPopayan.personal.md) 
+### [Popayan.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.private.md) 
 
-### [Popayan.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~Colombia\Cauca\CityPopayan.secret.md)
+### [Popayan.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.personal.md) 
+
+### [Popayan.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.secret.md)
 

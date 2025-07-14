@@ -41,15 +41,17 @@ markerFolder: ./Valle_del_Cauca/
 
 ## Confidential Links & Embeds: 
 
-### [Valle_del_Cauca.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaValle_del_Cauca.public.md) 
+### [Valle_del_Cauca](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Valle_del_Cauca.md) 
 
-### [Valle_del_Cauca.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaValle_del_Cauca.internal.md) 
+### [Valle_del_Cauca.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Valle_del_Cauca.public.md) 
 
-### [Valle_del_Cauca.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaValle_del_Cauca.protect.md) 
+### [Valle_del_Cauca.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Valle_del_Cauca.internal.md) 
 
-### [Valle_del_Cauca.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaValle_del_Cauca.private.md) 
+### [Valle_del_Cauca.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Valle_del_Cauca.protect.md) 
 
-### [Valle_del_Cauca.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaValle_del_Cauca.personal.md) 
+### [Valle_del_Cauca.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Valle_del_Cauca.private.md) 
 
-### [Valle_del_Cauca.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaValle_del_Cauca.secret.md)
+### [Valle_del_Cauca.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Valle_del_Cauca.personal.md) 
+
+### [Valle_del_Cauca.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Valle_del_Cauca.secret.md)
 

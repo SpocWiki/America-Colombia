@@ -41,15 +41,17 @@ markerFolder: ./Amazonas/
 
 ## Confidential Links & Embeds: 
 
-### [Amazonas.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaAmazonas.public.md) 
+### [Amazonas](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.md) 
 
-### [Amazonas.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaAmazonas.internal.md) 
+### [Amazonas.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.public.md) 
 
-### [Amazonas.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaAmazonas.protect.md) 
+### [Amazonas.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.internal.md) 
 
-### [Amazonas.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaAmazonas.private.md) 
+### [Amazonas.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.protect.md) 
 
-### [Amazonas.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaAmazonas.personal.md) 
+### [Amazonas.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.private.md) 
 
-### [Amazonas.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaAmazonas.secret.md)
+### [Amazonas.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.personal.md) 
+
+### [Amazonas.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.secret.md)
 

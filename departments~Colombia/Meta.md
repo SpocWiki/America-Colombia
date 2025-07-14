@@ -41,15 +41,17 @@ markerFolder: ./Meta/
 
 ## Confidential Links & Embeds: 
 
-### [Meta.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaMeta.public.md) 
+### [Meta](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Meta.md) 
 
-### [Meta.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaMeta.internal.md) 
+### [Meta.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Meta.public.md) 
 
-### [Meta.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaMeta.protect.md) 
+### [Meta.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Meta.internal.md) 
 
-### [Meta.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaMeta.private.md) 
+### [Meta.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Meta.protect.md) 
 
-### [Meta.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaMeta.personal.md) 
+### [Meta.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Meta.private.md) 
 
-### [Meta.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaMeta.secret.md)
+### [Meta.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Meta.personal.md) 
+
+### [Meta.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Meta.secret.md)
 

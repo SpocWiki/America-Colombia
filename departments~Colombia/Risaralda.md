@@ -41,15 +41,17 @@ markerFolder: ./Risaralda/
 
 ## Confidential Links & Embeds: 
 
-### [Risaralda.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaRisaralda.public.md) 
+### [Risaralda](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.md) 
 
-### [Risaralda.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaRisaralda.internal.md) 
+### [Risaralda.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.public.md) 
 
-### [Risaralda.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaRisaralda.protect.md) 
+### [Risaralda.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.internal.md) 
 
-### [Risaralda.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaRisaralda.private.md) 
+### [Risaralda.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.protect.md) 
 
-### [Risaralda.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaRisaralda.personal.md) 
+### [Risaralda.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.private.md) 
 
-### [Risaralda.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaRisaralda.secret.md)
+### [Risaralda.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.personal.md) 
+
+### [Risaralda.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Cauca/
 
 ## Confidential Links & Embeds: 
 
-### [Cauca.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaCauca.public.md) 
+### [Cauca](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca.md) 
 
-### [Cauca.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaCauca.internal.md) 
+### [Cauca.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca.public.md) 
 
-### [Cauca.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaCauca.protect.md) 
+### [Cauca.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca.internal.md) 
 
-### [Cauca.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaCauca.private.md) 
+### [Cauca.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca.protect.md) 
 
-### [Cauca.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaCauca.personal.md) 
+### [Cauca.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca.private.md) 
 
-### [Cauca.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaCauca.secret.md)
+### [Cauca.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca.personal.md) 
+
+### [Cauca.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca.secret.md)
 

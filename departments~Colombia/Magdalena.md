@@ -41,15 +41,17 @@ markerFolder: ./Magdalena/
 
 ## Confidential Links & Embeds: 
 
-### [Magdalena.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaMagdalena.public.md) 
+### [Magdalena](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.md) 
 
-### [Magdalena.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaMagdalena.internal.md) 
+### [Magdalena.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.public.md) 
 
-### [Magdalena.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaMagdalena.protect.md) 
+### [Magdalena.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.internal.md) 
 
-### [Magdalena.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaMagdalena.private.md) 
+### [Magdalena.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.protect.md) 
 
-### [Magdalena.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaMagdalena.personal.md) 
+### [Magdalena.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.private.md) 
 
-### [Magdalena.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaMagdalena.secret.md)
+### [Magdalena.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.personal.md) 
+
+### [Magdalena.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.secret.md)
 

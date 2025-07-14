@@ -56,15 +56,17 @@ markerFolder: ./Bogota/
 
 ## Confidential Links & Embeds: 
 
-### [Bogota.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaBogota.public.md) 
+### [Bogota](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.md) 
 
-### [Bogota.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaBogota.internal.md) 
+### [Bogota.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.public.md) 
 
-### [Bogota.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaBogota.protect.md) 
+### [Bogota.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.internal.md) 
 
-### [Bogota.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaBogota.private.md) 
+### [Bogota.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.protect.md) 
 
-### [Bogota.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaBogota.personal.md) 
+### [Bogota.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.private.md) 
 
-### [Bogota.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaBogota.secret.md)
+### [Bogota.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.personal.md) 
+
+### [Bogota.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.secret.md)
 

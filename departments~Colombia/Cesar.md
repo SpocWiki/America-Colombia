@@ -41,15 +41,17 @@ markerFolder: ./Cesar/
 
 ## Confidential Links & Embeds: 
 
-### [Cesar.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaCesar.public.md) 
+### [Cesar](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Cesar.md) 
 
-### [Cesar.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaCesar.internal.md) 
+### [Cesar.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Cesar.public.md) 
 
-### [Cesar.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaCesar.protect.md) 
+### [Cesar.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Cesar.internal.md) 
 
-### [Cesar.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaCesar.private.md) 
+### [Cesar.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Cesar.protect.md) 
 
-### [Cesar.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaCesar.personal.md) 
+### [Cesar.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Cesar.private.md) 
 
-### [Cesar.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaCesar.secret.md)
+### [Cesar.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Cesar.personal.md) 
+
+### [Cesar.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Cesar.secret.md)
 

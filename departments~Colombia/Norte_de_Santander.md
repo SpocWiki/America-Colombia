@@ -41,15 +41,17 @@ markerFolder: ./Norte_de_Santander/
 
 ## Confidential Links & Embeds: 
 
-### [Norte_de_Santander.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaNorte_de_Santander.public.md) 
+### [Norte_de_Santander](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.md) 
 
-### [Norte_de_Santander.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaNorte_de_Santander.internal.md) 
+### [Norte_de_Santander.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.public.md) 
 
-### [Norte_de_Santander.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaNorte_de_Santander.protect.md) 
+### [Norte_de_Santander.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.internal.md) 
 
-### [Norte_de_Santander.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaNorte_de_Santander.private.md) 
+### [Norte_de_Santander.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.protect.md) 
 
-### [Norte_de_Santander.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaNorte_de_Santander.personal.md) 
+### [Norte_de_Santander.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.private.md) 
 
-### [Norte_de_Santander.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaNorte_de_Santander.secret.md)
+### [Norte_de_Santander.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.personal.md) 
+
+### [Norte_de_Santander.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.secret.md)
 

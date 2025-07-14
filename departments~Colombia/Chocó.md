@@ -41,15 +41,17 @@ markerFolder: ./Chocó/
 
 ## Confidential Links & Embeds: 
 
-### [Chocó.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaChocó.public.md) 
+### [Chocó](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.md) 
 
-### [Chocó.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaChocó.internal.md) 
+### [Chocó.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.public.md) 
 
-### [Chocó.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaChocó.protect.md) 
+### [Chocó.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.internal.md) 
 
-### [Chocó.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaChocó.private.md) 
+### [Chocó.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.protect.md) 
 
-### [Chocó.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaChocó.personal.md) 
+### [Chocó.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.private.md) 
 
-### [Chocó.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaChocó.secret.md)
+### [Chocó.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.personal.md) 
+
+### [Chocó.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Córdoba/
 
 ## Confidential Links & Embeds: 
 
-### [Córdoba.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaCórdoba.public.md) 
+### [Córdoba](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.md) 
 
-### [Córdoba.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaCórdoba.internal.md) 
+### [Córdoba.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.public.md) 
 
-### [Córdoba.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaCórdoba.protect.md) 
+### [Córdoba.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.internal.md) 
 
-### [Córdoba.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaCórdoba.private.md) 
+### [Córdoba.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.protect.md) 
 
-### [Córdoba.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaCórdoba.personal.md) 
+### [Córdoba.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.private.md) 
 
-### [Córdoba.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaCórdoba.secret.md)
+### [Córdoba.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.personal.md) 
+
+### [Córdoba.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.secret.md)
 

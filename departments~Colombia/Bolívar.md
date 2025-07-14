@@ -41,15 +41,17 @@ markerFolder: ./Bolívar/
 
 ## Confidential Links & Embeds: 
 
-### [Bolívar.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaBolívar.public.md) 
+### [Bolívar](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.md) 
 
-### [Bolívar.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaBolívar.internal.md) 
+### [Bolívar.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.public.md) 
 
-### [Bolívar.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaBolívar.protect.md) 
+### [Bolívar.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.internal.md) 
 
-### [Bolívar.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaBolívar.private.md) 
+### [Bolívar.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.protect.md) 
 
-### [Bolívar.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaBolívar.personal.md) 
+### [Bolívar.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.private.md) 
 
-### [Bolívar.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaBolívar.secret.md)
+### [Bolívar.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.personal.md) 
+
+### [Bolívar.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.secret.md)
 

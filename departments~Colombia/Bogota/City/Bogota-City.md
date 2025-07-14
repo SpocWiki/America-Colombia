@@ -38,15 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bogota-City.public](/_public/\Earth\Continent\America~South\Colombia\departments~Colombia\Bogota\CityBogota-City.public.md) 
+### [Bogota-City](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.md) 
 
-### [Bogota-City.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~Colombia\Bogota\CityBogota-City.internal.md) 
+### [Bogota-City.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.public.md) 
 
-### [Bogota-City.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~Colombia\Bogota\CityBogota-City.protect.md) 
+### [Bogota-City.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.internal.md) 
 
-### [Bogota-City.private](/_private/\Earth\Continent\America~South\Colombia\departments~Colombia\Bogota\CityBogota-City.private.md) 
+### [Bogota-City.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.protect.md) 
 
-### [Bogota-City.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~Colombia\Bogota\CityBogota-City.personal.md) 
+### [Bogota-City.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.private.md) 
 
-### [Bogota-City.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~Colombia\Bogota\CityBogota-City.secret.md)
+### [Bogota-City.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.personal.md) 
+
+### [Bogota-City.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.secret.md)
 

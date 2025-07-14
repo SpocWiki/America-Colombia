@@ -41,15 +41,17 @@ markerFolder: ./La_Guajira/
 
 ## Confidential Links & Embeds: 
 
-### [La_Guajira.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaLa_Guajira.public.md) 
+### [La_Guajira](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/La_Guajira.md) 
 
-### [La_Guajira.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaLa_Guajira.internal.md) 
+### [La_Guajira.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/La_Guajira.public.md) 
 
-### [La_Guajira.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaLa_Guajira.protect.md) 
+### [La_Guajira.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/La_Guajira.internal.md) 
 
-### [La_Guajira.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaLa_Guajira.private.md) 
+### [La_Guajira.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/La_Guajira.protect.md) 
 
-### [La_Guajira.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaLa_Guajira.personal.md) 
+### [La_Guajira.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/La_Guajira.private.md) 
 
-### [La_Guajira.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaLa_Guajira.secret.md)
+### [La_Guajira.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/La_Guajira.personal.md) 
+
+### [La_Guajira.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/La_Guajira.secret.md)
 

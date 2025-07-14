@@ -41,15 +41,17 @@ markerFolder: ./Vaupés/
 
 ## Confidential Links & Embeds: 
 
-### [Vaupés.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaVaupés.public.md) 
+### [Vaupés](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.md) 
 
-### [Vaupés.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaVaupés.internal.md) 
+### [Vaupés.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.public.md) 
 
-### [Vaupés.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaVaupés.protect.md) 
+### [Vaupés.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.internal.md) 
 
-### [Vaupés.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaVaupés.private.md) 
+### [Vaupés.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.protect.md) 
 
-### [Vaupés.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaVaupés.personal.md) 
+### [Vaupés.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.private.md) 
 
-### [Vaupés.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaVaupés.secret.md)
+### [Vaupés.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.personal.md) 
+
+### [Vaupés.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.secret.md)
 

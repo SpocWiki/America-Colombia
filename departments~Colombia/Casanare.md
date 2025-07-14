@@ -41,15 +41,17 @@ markerFolder: ./Casanare/
 
 ## Confidential Links & Embeds: 
 
-### [Casanare.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaCasanare.public.md) 
+### [Casanare](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Casanare.md) 
 
-### [Casanare.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaCasanare.internal.md) 
+### [Casanare.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Casanare.public.md) 
 
-### [Casanare.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaCasanare.protect.md) 
+### [Casanare.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Casanare.internal.md) 
 
-### [Casanare.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaCasanare.private.md) 
+### [Casanare.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Casanare.protect.md) 
 
-### [Casanare.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaCasanare.personal.md) 
+### [Casanare.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Casanare.private.md) 
 
-### [Casanare.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaCasanare.secret.md)
+### [Casanare.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Casanare.personal.md) 
+
+### [Casanare.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Casanare.secret.md)
 

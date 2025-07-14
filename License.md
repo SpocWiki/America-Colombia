@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~South\ColombiaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~South/Colombia/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~South\ColombiaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~South/Colombia/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~South\ColombiaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~South/Colombia/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~South\ColombiaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~South/Colombia/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~South\ColombiaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~South/Colombia/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~South\ColombiaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~South/Colombia/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~South/Colombia/License.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./San_Andrés_y_Providencia/
 
 ## Confidential Links & Embeds: 
 
-### [San_Andrés_y_Providencia.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaSan_Andrés_y_Providencia.public.md) 
+### [San_Andrés_y_Providencia](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/San_Andrés_y_Providencia.md) 
 
-### [San_Andrés_y_Providencia.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaSan_Andrés_y_Providencia.internal.md) 
+### [San_Andrés_y_Providencia.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/San_Andrés_y_Providencia.public.md) 
 
-### [San_Andrés_y_Providencia.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaSan_Andrés_y_Providencia.protect.md) 
+### [San_Andrés_y_Providencia.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/San_Andrés_y_Providencia.internal.md) 
 
-### [San_Andrés_y_Providencia.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaSan_Andrés_y_Providencia.private.md) 
+### [San_Andrés_y_Providencia.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/San_Andrés_y_Providencia.protect.md) 
 
-### [San_Andrés_y_Providencia.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaSan_Andrés_y_Providencia.personal.md) 
+### [San_Andrés_y_Providencia.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/San_Andrés_y_Providencia.private.md) 
 
-### [San_Andrés_y_Providencia.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaSan_Andrés_y_Providencia.secret.md)
+### [San_Andrés_y_Providencia.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/San_Andrés_y_Providencia.personal.md) 
+
+### [San_Andrés_y_Providencia.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/San_Andrés_y_Providencia.secret.md)
 
