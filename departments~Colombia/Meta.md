@@ -40,11 +40,16 @@ markerFolder: ./Meta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Meta|Meta]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Meta.public|Meta.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Meta.internal|Meta.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Meta.protect|Meta.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Meta.private|Meta.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Meta.personal|Meta.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Meta.secret|Meta.secret]] 
+
+### [Meta.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaMeta.public.md) 
+
+### [Meta.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaMeta.internal.md) 
+
+### [Meta.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaMeta.protect.md) 
+
+### [Meta.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaMeta.private.md) 
+
+### [Meta.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaMeta.personal.md) 
+
+### [Meta.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaMeta.secret.md)
 

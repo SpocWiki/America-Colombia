@@ -40,11 +40,16 @@ markerFolder: ./Guaviare/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Guaviare|Guaviare]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Guaviare.public|Guaviare.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Guaviare.internal|Guaviare.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Guaviare.protect|Guaviare.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Guaviare.private|Guaviare.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Guaviare.personal|Guaviare.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Guaviare.secret|Guaviare.secret]] 
+
+### [Guaviare.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaGuaviare.public.md) 
+
+### [Guaviare.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaGuaviare.internal.md) 
+
+### [Guaviare.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaGuaviare.protect.md) 
+
+### [Guaviare.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaGuaviare.private.md) 
+
+### [Guaviare.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaGuaviare.personal.md) 
+
+### [Guaviare.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaGuaviare.secret.md)
 

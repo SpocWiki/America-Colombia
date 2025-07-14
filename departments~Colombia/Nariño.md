@@ -40,11 +40,16 @@ markerFolder: ./Nariño/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Nariño|Nariño]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Nariño.public|Nariño.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Nariño.internal|Nariño.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Nariño.protect|Nariño.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Nariño.private|Nariño.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Nariño.personal|Nariño.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Nariño.secret|Nariño.secret]] 
+
+### [Nariño.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaNariño.public.md) 
+
+### [Nariño.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaNariño.internal.md) 
+
+### [Nariño.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaNariño.protect.md) 
+
+### [Nariño.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaNariño.private.md) 
+
+### [Nariño.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaNariño.personal.md) 
+
+### [Nariño.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaNariño.secret.md)
 

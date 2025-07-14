@@ -40,11 +40,16 @@ markerFolder: ./Caquetá/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Caquetá|Caquetá]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Caquetá.public|Caquetá.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Caquetá.internal|Caquetá.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Caquetá.protect|Caquetá.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Caquetá.private|Caquetá.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Caquetá.personal|Caquetá.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Caquetá.secret|Caquetá.secret]] 
+
+### [Caquetá.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaCaquetá.public.md) 
+
+### [Caquetá.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaCaquetá.internal.md) 
+
+### [Caquetá.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaCaquetá.protect.md) 
+
+### [Caquetá.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaCaquetá.private.md) 
+
+### [Caquetá.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaCaquetá.personal.md) 
+
+### [Caquetá.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaCaquetá.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Huila/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Huila|Huila]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Huila.public|Huila.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Huila.internal|Huila.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Huila.protect|Huila.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Huila.private|Huila.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Huila.personal|Huila.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Huila.secret|Huila.secret]] 
+
+### [Huila.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaHuila.public.md) 
+
+### [Huila.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaHuila.internal.md) 
+
+### [Huila.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaHuila.protect.md) 
+
+### [Huila.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaHuila.private.md) 
+
+### [Huila.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaHuila.personal.md) 
+
+### [Huila.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaHuila.secret.md)
 

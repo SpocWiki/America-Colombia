@@ -40,11 +40,16 @@ markerFolder: ./Córdoba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Córdoba|Córdoba]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Córdoba.public|Córdoba.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Córdoba.internal|Córdoba.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Córdoba.protect|Córdoba.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Córdoba.private|Córdoba.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Córdoba.personal|Córdoba.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Córdoba.secret|Córdoba.secret]] 
+
+### [Córdoba.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaCórdoba.public.md) 
+
+### [Córdoba.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaCórdoba.internal.md) 
+
+### [Córdoba.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaCórdoba.protect.md) 
+
+### [Córdoba.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaCórdoba.private.md) 
+
+### [Córdoba.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaCórdoba.personal.md) 
+
+### [Córdoba.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaCórdoba.secret.md)
 

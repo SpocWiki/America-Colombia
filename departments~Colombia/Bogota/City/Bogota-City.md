@@ -37,10 +37,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/City/Bogota|Bogota]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/City/Bogota.public|Bogota.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/City/Bogota.internal|Bogota.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/City/Bogota.protect|Bogota.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/City/Bogota.private|Bogota.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/City/Bogota.personal|Bogota.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/City/Bogota.secret|Bogota.secret]] 
+
+### [Bogota-City.public](/_public/\Earth\Continent\America~South\Colombia\departments~Colombia\Bogota\CityBogota-City.public.md) 
+
+### [Bogota-City.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~Colombia\Bogota\CityBogota-City.internal.md) 
+
+### [Bogota-City.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~Colombia\Bogota\CityBogota-City.protect.md) 
+
+### [Bogota-City.private](/_private/\Earth\Continent\America~South\Colombia\departments~Colombia\Bogota\CityBogota-City.private.md) 
+
+### [Bogota-City.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~Colombia\Bogota\CityBogota-City.personal.md) 
+
+### [Bogota-City.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~Colombia\Bogota\CityBogota-City.secret.md)
+

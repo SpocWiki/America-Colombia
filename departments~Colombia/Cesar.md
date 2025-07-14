@@ -40,11 +40,16 @@ markerFolder: ./Cesar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Cesar|Cesar]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Cesar.public|Cesar.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Cesar.internal|Cesar.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Cesar.protect|Cesar.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Cesar.private|Cesar.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Cesar.personal|Cesar.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Cesar.secret|Cesar.secret]] 
+
+### [Cesar.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaCesar.public.md) 
+
+### [Cesar.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaCesar.internal.md) 
+
+### [Cesar.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaCesar.protect.md) 
+
+### [Cesar.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaCesar.private.md) 
+
+### [Cesar.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaCesar.personal.md) 
+
+### [Cesar.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaCesar.secret.md)
 

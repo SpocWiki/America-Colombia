@@ -40,11 +40,16 @@ markerFolder: ./Arauca/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Arauca|Arauca]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Arauca.public|Arauca.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Arauca.internal|Arauca.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Arauca.protect|Arauca.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Arauca.private|Arauca.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Arauca.personal|Arauca.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Arauca.secret|Arauca.secret]] 
+
+### [Arauca.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaArauca.public.md) 
+
+### [Arauca.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaArauca.internal.md) 
+
+### [Arauca.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaArauca.protect.md) 
+
+### [Arauca.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaArauca.private.md) 
+
+### [Arauca.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaArauca.personal.md) 
+
+### [Arauca.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaArauca.secret.md)
 

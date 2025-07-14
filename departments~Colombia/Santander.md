@@ -40,11 +40,16 @@ markerFolder: ./Santander/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Santander|Santander]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Santander.public|Santander.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Santander.internal|Santander.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Santander.protect|Santander.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Santander.private|Santander.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Santander.personal|Santander.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Santander.secret|Santander.secret]] 
+
+### [Santander.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaSantander.public.md) 
+
+### [Santander.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaSantander.internal.md) 
+
+### [Santander.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaSantander.protect.md) 
+
+### [Santander.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaSantander.private.md) 
+
+### [Santander.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaSantander.personal.md) 
+
+### [Santander.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaSantander.secret.md)
 

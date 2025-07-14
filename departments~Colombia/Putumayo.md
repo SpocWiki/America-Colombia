@@ -40,11 +40,16 @@ markerFolder: ./Putumayo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Putumayo|Putumayo]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Putumayo.public|Putumayo.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Putumayo.internal|Putumayo.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Putumayo.protect|Putumayo.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Putumayo.private|Putumayo.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Putumayo.personal|Putumayo.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Putumayo.secret|Putumayo.secret]] 
+
+### [Putumayo.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaPutumayo.public.md) 
+
+### [Putumayo.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaPutumayo.internal.md) 
+
+### [Putumayo.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaPutumayo.protect.md) 
+
+### [Putumayo.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaPutumayo.private.md) 
+
+### [Putumayo.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaPutumayo.personal.md) 
+
+### [Putumayo.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaPutumayo.secret.md)
 

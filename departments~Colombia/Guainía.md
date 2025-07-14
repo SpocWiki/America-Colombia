@@ -40,11 +40,16 @@ markerFolder: ./Guainía/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Guainía|Guainía]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Guainía.public|Guainía.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Guainía.internal|Guainía.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Guainía.protect|Guainía.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Guainía.private|Guainía.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Guainía.personal|Guainía.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Guainía.secret|Guainía.secret]] 
+
+### [Guainía.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaGuainía.public.md) 
+
+### [Guainía.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaGuainía.internal.md) 
+
+### [Guainía.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaGuainía.protect.md) 
+
+### [Guainía.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaGuainía.private.md) 
+
+### [Guainía.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaGuainía.personal.md) 
+
+### [Guainía.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaGuainía.secret.md)
 

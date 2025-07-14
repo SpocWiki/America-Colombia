@@ -40,11 +40,16 @@ markerFolder: ./Vaupés/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Vaupés|Vaupés]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Vaupés.public|Vaupés.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Vaupés.internal|Vaupés.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Vaupés.protect|Vaupés.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Vaupés.private|Vaupés.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Vaupés.personal|Vaupés.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Vaupés.secret|Vaupés.secret]] 
+
+### [Vaupés.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaVaupés.public.md) 
+
+### [Vaupés.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaVaupés.internal.md) 
+
+### [Vaupés.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaVaupés.protect.md) 
+
+### [Vaupés.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaVaupés.private.md) 
+
+### [Vaupés.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaVaupés.personal.md) 
+
+### [Vaupés.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaVaupés.secret.md)
 

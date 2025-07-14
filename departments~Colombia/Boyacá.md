@@ -40,11 +40,16 @@ markerFolder: ./Boyacá/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Boyacá|Boyacá]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Boyacá.public|Boyacá.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Boyacá.internal|Boyacá.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Boyacá.protect|Boyacá.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Boyacá.private|Boyacá.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Boyacá.personal|Boyacá.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Boyacá.secret|Boyacá.secret]] 
+
+### [Boyacá.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaBoyacá.public.md) 
+
+### [Boyacá.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaBoyacá.internal.md) 
+
+### [Boyacá.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaBoyacá.protect.md) 
+
+### [Boyacá.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaBoyacá.private.md) 
+
+### [Boyacá.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaBoyacá.personal.md) 
+
+### [Boyacá.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaBoyacá.secret.md)
 

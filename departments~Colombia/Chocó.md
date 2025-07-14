@@ -40,11 +40,16 @@ markerFolder: ./Chocó/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Chocó|Chocó]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Chocó.public|Chocó.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Chocó.internal|Chocó.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Chocó.protect|Chocó.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Chocó.private|Chocó.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Chocó.personal|Chocó.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Chocó.secret|Chocó.secret]] 
+
+### [Chocó.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaChocó.public.md) 
+
+### [Chocó.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaChocó.internal.md) 
+
+### [Chocó.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaChocó.protect.md) 
+
+### [Chocó.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaChocó.private.md) 
+
+### [Chocó.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaChocó.personal.md) 
+
+### [Chocó.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaChocó.secret.md)
 

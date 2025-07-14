@@ -40,11 +40,16 @@ markerFolder: ./Sucre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/Counties/Sucre|Sucre]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/Counties/Sucre.public|Sucre.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/Counties/Sucre.internal|Sucre.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/Counties/Sucre.protect|Sucre.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/Counties/Sucre.private|Sucre.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/Counties/Sucre.personal|Sucre.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/Counties/Sucre.secret|Sucre.secret]] 
+
+### [Sucre.public](/_public/\Earth\Continent\America~South\Colombia\departments~ColombiaSucre.public.md) 
+
+### [Sucre.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~ColombiaSucre.internal.md) 
+
+### [Sucre.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~ColombiaSucre.protect.md) 
+
+### [Sucre.private](/_private/\Earth\Continent\America~South\Colombia\departments~ColombiaSucre.private.md) 
+
+### [Sucre.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~ColombiaSucre.personal.md) 
+
+### [Sucre.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~ColombiaSucre.secret.md)
 

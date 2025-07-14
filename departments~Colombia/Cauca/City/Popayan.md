@@ -1,4 +1,4 @@
-﻿---
+---
 location: [2.45,-76.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Colombia/City/Popayan|Popayan]] 
-- [[../../../../../../_public/geo/Continent/America~South/Colombia/City/Popayan.public|Popayan.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Colombia/City/Popayan.internal|Popayan.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Colombia/City/Popayan.protect|Popayan.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Colombia/City/Popayan.private|Popayan.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Colombia/City/Popayan.personal|Popayan.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Colombia/City/Popayan.secret|Popayan.secret]] 
+
+### [Popayan.public](/_public/\Earth\Continent\America~South\Colombia\departments~Colombia\Cauca\CityPopayan.public.md) 
+
+### [Popayan.internal](/_internal/\Earth\Continent\America~South\Colombia\departments~Colombia\Cauca\CityPopayan.internal.md) 
+
+### [Popayan.protect](/_protect/\Earth\Continent\America~South\Colombia\departments~Colombia\Cauca\CityPopayan.protect.md) 
+
+### [Popayan.private](/_private/\Earth\Continent\America~South\Colombia\departments~Colombia\Cauca\CityPopayan.private.md) 
+
+### [Popayan.personal](/_personal/\Earth\Continent\America~South\Colombia\departments~Colombia\Cauca\CityPopayan.personal.md) 
+
+### [Popayan.secret](/_secret/\Earth\Continent\America~South\Colombia\departments~Colombia\Cauca\CityPopayan.secret.md)
+
