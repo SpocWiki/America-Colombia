@@ -1,35 +1,36 @@
 ---
 location:
-- -33.45
-- -70.67
+  - -33.45
+  - -70.67
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26868
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Chile
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Chile
-- Chili
-- شيلي
-- 智利
-- Чили
-- the Republic of Chile
-- la República de Chile
+  - Chile
+  - Chili
+  - شيلي
+  - 智利
+  - Чили
+  - the Republic of Chile
+  - la República de Chile
 Languages:
-- es-CL
+  - es-CL
 ---
 
 
