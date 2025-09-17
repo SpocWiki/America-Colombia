@@ -183,7 +183,7 @@ UN_LOCODE: COBOG
 
 # [[Bogota]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Bogotá,2841|WD~Bogotá,2841]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Bogotá,2841|WD~Bogotá,2841]] 
 
 ## #has_/map 
 

@@ -119,11 +119,11 @@ Continent :: [[South-America]]
 [VehicleCode::RCH] 
 Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]  
 
-![[Chile/Coat_of_arms_of_Chile.svg|550]] 
+![[../../Southern_Cone/Chile/Coat_of_arms_of_Chile.svg|550]] 
 
 ![[Anthem-Chile.mp3]] 
 
-![[Chile/Flag_of_Chile.svg|350]] 
+![[../../Southern_Cone/Chile/Flag_of_Chile.svg|350]] 
 
 [Alcohol-l::8.6] 
 [Language-Id::492] 
