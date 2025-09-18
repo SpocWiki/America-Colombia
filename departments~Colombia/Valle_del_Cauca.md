@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Valle_del_Cauca
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Valle_del_Cauca/
 markerFolder: ./Valle_del_Cauca/

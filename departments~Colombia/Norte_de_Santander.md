@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Norte_de_Santander
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Norte_de_Santander/
 markerFolder: ./Norte_de_Santander/

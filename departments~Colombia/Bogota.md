@@ -190,7 +190,7 @@ UN_LOCODE: COBOG
 ```leaflet
 id: Bogota
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bogota/
 markerFolder: ./Bogota/
