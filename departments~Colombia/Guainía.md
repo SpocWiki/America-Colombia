@@ -26,7 +26,7 @@ publishDate:
 expiryDate:
 ---
 
-# Guainía
+# [[Guainía]]
 
 ```leaflet
 id: Guainía
@@ -36,6 +36,8 @@ maxZoom: 18
 geojsonFolder: ./Guainía/
 markerFolder: ./Guainía/
 ```
+
+
 
 
 ## Confidential Links & Embeds: 
