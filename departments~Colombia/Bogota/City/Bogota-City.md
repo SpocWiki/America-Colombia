@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bogotá City
+  - Bogota-City
 location:
   - 4.6
   - -74.08
@@ -12,8 +15,6 @@ tags:
 SpocWebEntityId: 29250
 isDeleted: false
 confidential: public
-aliases:
-  - Bogotá City
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

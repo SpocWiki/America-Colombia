@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Valle_del_Cauca
+  - Valle del Cauca
 location:
   - 4.1
   - -76.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Valle_del_Cauca
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Valle_del_Cauca

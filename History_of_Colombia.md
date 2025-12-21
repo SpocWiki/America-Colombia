@@ -1,10 +1,12 @@
 ---
 aliases:
   - history of Colombia
+  - History_of_Colombia
+  - History of Colombia
 has_id_wikidata: Q1044401
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-facet_of: "[[_Standards/WikiData/WD~Colombia,739]]"
-Dewey_Decimal_Classification: "986"
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~Colombia,739]]'
+Dewey_Decimal_Classification: 986
 Commons_category: History of Colombia
 ---
 

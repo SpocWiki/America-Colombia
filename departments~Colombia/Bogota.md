@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Bogota
+  - Bogotá
+has_id_wikidata: Q2841
 location:
   - 4.3
   - -74.2
@@ -12,124 +16,120 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Bogota
-  - Bogotá
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
-has_id_wikidata: Q2841
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Ramallah,158119]]"
-  - "[[_Standards/WikiData/WD~Santa_Fe,615722]]"
-  - "[[_Standards/WikiData/WD~Cartagena_de_Indias,657461]]"
-  - "[[_Standards/WikiData/WD~Turin,495]]"
-  - "[[_Standards/WikiData/WD~Dubai,612]]"
-  - "[[_Standards/WikiData/WD~Amsterdam,727]]"
-  - "[[_Standards/WikiData/WD~Chicago,1297]]"
-  - "[[_Standards/WikiData/WD~Buenos_Aires,1486]]"
-  - "[[_Standards/WikiData/WD~La_Paz,1491]]"
-  - "[[_Standards/WikiData/WD~Mexico_City,1489]]"
-  - "[[_Standards/WikiData/WD~Athens,1524]]"
-  - "[[_Standards/WikiData/WD~Madrid,2807]]"
-  - "[[_Standards/WikiData/WD~Brasília,2844]]"
-  - "[[_Standards/WikiData/WD~Tegucigalpa,3238]]"
-  - "[[_Standards/WikiData/WD~Tripoli,3579]]"
-  - "[[_Standards/WikiData/WD~Miami,8652]]"
-  - "[[_Standards/WikiData/WD~Seoul,8684]]"
-  - "[[_Standards/WikiData/WD~Amsterdam,9899]]"
-  - "[[_Standards/WikiData/WD~Cádiz,15682]]"
-  - "[[_Standards/WikiData/WD~London,84]]"
+  - '[[_Standards/WikiData/WD~Ramallah,158119]]'
+  - '[[_Standards/WikiData/WD~Santa_Fe,615722]]'
+  - '[[_Standards/WikiData/WD~Cartagena_de_Indias,657461]]'
+  - '[[_Standards/WikiData/WD~Turin,495]]'
+  - '[[_Standards/WikiData/WD~Dubai,612]]'
+  - '[[_Standards/WikiData/WD~Amsterdam,727]]'
+  - '[[_Standards/WikiData/WD~Chicago,1297]]'
+  - '[[_Standards/WikiData/WD~Buenos_Aires,1486]]'
+  - '[[_Standards/WikiData/WD~La_Paz,1491]]'
+  - '[[_Standards/WikiData/WD~Mexico_City,1489]]'
+  - '[[_Standards/WikiData/WD~Athens,1524]]'
+  - '[[_Standards/WikiData/WD~Madrid,2807]]'
+  - '[[_Standards/WikiData/WD~Brasília,2844]]'
+  - '[[_Standards/WikiData/WD~Tegucigalpa,3238]]'
+  - '[[_Standards/WikiData/WD~Tripoli,3579]]'
+  - '[[_Standards/WikiData/WD~Miami,8652]]'
+  - '[[_Standards/WikiData/WD~Seoul,8684]]'
+  - '[[_Standards/WikiData/WD~Amsterdam,9899]]'
+  - '[[_Standards/WikiData/WD~Cádiz,15682]]'
+  - '[[_Standards/WikiData/WD~London,84]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Estadio_El_Campín,179027]]"
-  - "[[_Standards/WikiData/WD~Empresa_de_Telecomunicaciones_de_Bogotá,5324448]]"
-  - "[[_Standards/WikiData/WD~Estadio_Metropolitano_de_Techo,5400377]]"
-patron_saint: "[[_Standards/WikiData/WD~Immaculate_Conception_of_Mary,185606]]"
+  - '[[_Standards/WikiData/WD~Estadio_El_Campín,179027]]'
+  - '[[_Standards/WikiData/WD~Empresa_de_Telecomunicaciones_de_Bogotá,5324448]]'
+  - '[[_Standards/WikiData/WD~Estadio_Metropolitano_de_Techo,5400377]]'
+patron_saint: '[[_Standards/WikiData/WD~Immaculate_Conception_of_Mary,185606]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Gran_Colombia,199821]]"
-  - "[[_Standards/WikiData/WD~Cundinamarca_Department,232564]]"
-  - "[[_Standards/WikiData/WD~Republic_of_New_Granada,630882]]"
-  - "[[_Standards/WikiData/WD~Capital_District,1055848]]"
-  - "[[_Standards/WikiData/WD~United_States_of_Colombia,1061488]]"
-  - "[[_Standards/WikiData/WD~Granadine_Confederation,1141215]]"
-  - "[[_Standards/WikiData/WD~Federal_District,3032061]]"
-  - "[[_Standards/WikiData/WD~Free_and_Independent_State_of_Cundinamarca,3591854]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Viceroyalty_of_New_Granada,8965]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Cundinamarca_Department,232564]]"
+  - '[[_Standards/WikiData/WD~Gran_Colombia,199821]]'
+  - '[[_Standards/WikiData/WD~Cundinamarca_Department,232564]]'
+  - '[[_Standards/WikiData/WD~Republic_of_New_Granada,630882]]'
+  - '[[_Standards/WikiData/WD~Capital_District,1055848]]'
+  - '[[_Standards/WikiData/WD~United_States_of_Colombia,1061488]]'
+  - '[[_Standards/WikiData/WD~Granadine_Confederation,1141215]]'
+  - '[[_Standards/WikiData/WD~Federal_District,3032061]]'
+  - '[[_Standards/WikiData/WD~Free_and_Independent_State_of_Cundinamarca,3591854]]'
+  - '[[_Standards/WikiData/WD~Colombia,739]]'
+  - '[[_Standards/WikiData/WD~Viceroyalty_of_New_Granada,8965]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Cundinamarca_Department,232564]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Rafael_Uribe_Uribe,267349]]"
-  - "[[_Standards/WikiData/WD~Kennedy,605317]]"
-  - "[[_Standards/WikiData/WD~Engativá,2647767]]"
-  - "[[_Standards/WikiData/WD~Suba,2647948]]"
-  - "[[_Standards/WikiData/WD~Teusaquillo,2647955]]"
-  - "[[_Standards/WikiData/WD~San_Cristóbal,2647967]]"
-  - "[[_Standards/WikiData/WD~Chapinero,2647973]]"
-  - "[[_Standards/WikiData/WD~Barrios_Unidos,2647983]]"
-  - "[[_Standards/WikiData/WD~Fontibón,2647991]]"
-  - "[[_Standards/WikiData/WD~Antonio_Nariño,2647997]]"
-  - "[[_Standards/WikiData/WD~Pedro_Usme,2648000]]"
-  - "[[_Standards/WikiData/WD~Bosa,2648009]]"
-  - "[[_Standards/WikiData/WD~Puente_Aranda,2648016]]"
-  - "[[_Standards/WikiData/WD~Sumapaz,2648337]]"
-  - "[[_Standards/WikiData/WD~Usaquén,2648340]]"
-  - "[[_Standards/WikiData/WD~Ciudad_Bolívar,2648345]]"
-  - "[[_Standards/WikiData/WD~Los_Mártires,2648349]]"
-  - "[[_Standards/WikiData/WD~Santa_Fe,2648670]]"
-  - "[[_Standards/WikiData/WD~Tunjuelito,2649137]]"
-  - "[[_Standards/WikiData/WD~La_Candelaria,2651388]]"
+  - '[[_Standards/WikiData/WD~Rafael_Uribe_Uribe,267349]]'
+  - '[[_Standards/WikiData/WD~Kennedy,605317]]'
+  - '[[_Standards/WikiData/WD~Engativá,2647767]]'
+  - '[[_Standards/WikiData/WD~Suba,2647948]]'
+  - '[[_Standards/WikiData/WD~Teusaquillo,2647955]]'
+  - '[[_Standards/WikiData/WD~San_Cristóbal,2647967]]'
+  - '[[_Standards/WikiData/WD~Chapinero,2647973]]'
+  - '[[_Standards/WikiData/WD~Barrios_Unidos,2647983]]'
+  - '[[_Standards/WikiData/WD~Fontibón,2647991]]'
+  - '[[_Standards/WikiData/WD~Antonio_Nariño,2647997]]'
+  - '[[_Standards/WikiData/WD~Pedro_Usme,2648000]]'
+  - '[[_Standards/WikiData/WD~Bosa,2648009]]'
+  - '[[_Standards/WikiData/WD~Puente_Aranda,2648016]]'
+  - '[[_Standards/WikiData/WD~Sumapaz,2648337]]'
+  - '[[_Standards/WikiData/WD~Usaquén,2648340]]'
+  - '[[_Standards/WikiData/WD~Ciudad_Bolívar,2648345]]'
+  - '[[_Standards/WikiData/WD~Los_Mártires,2648349]]'
+  - '[[_Standards/WikiData/WD~Santa_Fe,2648670]]'
+  - '[[_Standards/WikiData/WD~Tunjuelito,2649137]]'
+  - '[[_Standards/WikiData/WD~La_Candelaria,2651388]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-founded_by: "[[_Standards/WikiData/WD~Gonzalo_Jiménez_de_Quesada,347688]]"
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+founded_by: '[[_Standards/WikiData/WD~Gonzalo_Jiménez_de_Quesada,347688]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~capital_district_or_territory,395994]]"
-  - "[[_Standards/WikiData/WD~human_settlement,486972]]"
-  - "[[_Standards/WikiData/WD~direct_controlled_municipality,499073]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~municipality_of_Colombia,2555896]]"
-  - "[[_Standards/WikiData/WD~first_level_administrative_division,10864048]]"
-  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
+  - '[[_Standards/WikiData/WD~capital_district_or_territory,395994]]'
+  - '[[_Standards/WikiData/WD~human_settlement,486972]]'
+  - '[[_Standards/WikiData/WD~direct_controlled_municipality,499073]]'
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~municipality_of_Colombia,2555896]]'
+  - '[[_Standards/WikiData/WD~first_level_administrative_division,10864048]]'
+  - '[[_Standards/WikiData/WD~largest_city,51929311]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Q579820,579820]]"
-  - "[[_Standards/WikiData/WD~Funza,608955]]"
-  - "[[_Standards/WikiData/WD~Soacha,1011151]]"
-  - "[[_Standards/WikiData/WD~Chía,1093102]]"
-  - "[[_Standards/WikiData/WD~Mosquera,2432909]]"
-member_of: "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
+  - '[[_Standards/WikiData/WD~Q579820,579820]]'
+  - '[[_Standards/WikiData/WD~Funza,608955]]'
+  - '[[_Standards/WikiData/WD~Soacha,1011151]]'
+  - '[[_Standards/WikiData/WD~Chía,1093102]]'
+  - '[[_Standards/WikiData/WD~Mosquera,2432909]]'
+member_of: '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
 coordinate_location: Point(-74.08175 4.60971)
-flag: "[[_Standards/WikiData/WD~flag_of_Bogotá,2578041]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Bogotá,2718390]]"
+flag: '[[_Standards/WikiData/WD~flag_of_Bogotá,2578041]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Bogotá,2718390]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Colombia,11162793]]"
-head_of_government: "[[_Standards/WikiData/WD~Carlos_Fernando_Galán,5750311]]"
-legislative_body: "[[_Standards/WikiData/WD~Bogotá_city_council,5780806]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Bogota,8354625]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Bogotá,8771666]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Bogotá,13365118]]"
+  - '[[_Standards/WikiData/WD~WikiProject_Cities,5497514]]'
+  - '[[_Standards/WikiData/WD~WikiProject_Colombia,11162793]]'
+head_of_government: '[[_Standards/WikiData/WD~Carlos_Fernando_Galán,5750311]]'
+legislative_body: '[[_Standards/WikiData/WD~Bogotá_city_council,5780806]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Bogota,8354625]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Bogotá,8771666]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bogotá,13365118]]'
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/CollageBogot%C3%A1.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Centro%20internacional.JPG
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Mayor_of_Bogota,21994938]]"
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Mayor_of_Bogota,21994938]]'
 Facebook_username: AlcaldiaBogota
 Instagram_username: alcaldiabogota
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Pictures%20from%20Bogota%20Day%20Aerial.jpg
-executive_body: "[[_Standards/WikiData/WD~office_of_the_mayor_of_Bogotá,51716465]]"
-country: "[[_Standards/WikiData/WD~Colombia,739]]"
-official_language: "[[_Standards/WikiData/WD~Spanish,1321]]"
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385]]"
+executive_body: '[[_Standards/WikiData/WD~office_of_the_mayor_of_Bogotá,51716465]]'
+country: '[[_Standards/WikiData/WD~Colombia,739]]'
+official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
 demonym:
   - bogotana
   - bogotano
@@ -142,16 +142,16 @@ demonym:
   - bogotana
   - bogotano
   - боготинец
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_05_00,5390]]"
-local_dialing_code: "1"
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
+local_dialing_code: 1
 social_media_followers: 73500
 area: 1578
 elevation_above_sea_level: 2582
-postal_code: "11"
-DANE_code: "11001"
+postal_code: 11
+DANE_code: 11001
 native_label: Bogotá
 official_name: Bogotá
-OmegaWiki_Defined_Meaning: "457839"
+OmegaWiki_Defined_Meaning: 457839
 licence_plate_code: BOG
 population: 8034649
 inception: 1538-08-16T00:00:00Z
@@ -169,10 +169,10 @@ spoken_text_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Es-Bogota-article.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Bogota%20%28stad%29-article.ogg
 official_website: https://bogota.gov.co/
-ISNI: "0000000121535758"
-U_S_National_Archives_Identifier: "10044647"
+ISNI: 0000000121535758
+U_S_National_Archives_Identifier: 10044647
 Libris_URI: 42gjhcjn04rb4nv
-P8189: "987007559652005171"
+P8189: 987007559652005171
 GitHub_topic: bogota
 hashtag: Bogotá
 Commons_gallery: Bogotá

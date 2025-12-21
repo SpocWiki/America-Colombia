@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Norte_de_Santander
+  - Norte de Santander
 location:
   - 8.1
   - -72.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Norte_de_Santander
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Norte_de_Santander

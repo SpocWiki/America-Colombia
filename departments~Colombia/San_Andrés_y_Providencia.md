@@ -1,4 +1,7 @@
 ---
+aliases:
+  - San_Andrés_y_Providencia
+  - San Andrés y Providencia
 location:
   - 13.35
   - -81.37
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - San_Andrés_y_Providencia
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # San_Andrés_y_Providencia

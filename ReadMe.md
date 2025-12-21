@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Chile
+  - Chili
+  - شيلي
+  - 智利
+  - Чили
+  - the Republic of Chile
+  - la República de Chile
+  - ReadMe
 location:
   - -33.45
   - -70.67
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Chile
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Chile
-  - Chili
-  - شيلي
-  - 智利
-  - Чили
-  - the Republic of Chile
-  - la República de Chile
+publishDate: ''
+expiryDate: ''
 Languages:
   - es-CL
 ---
