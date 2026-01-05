@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1538-08-16 
 aliases:
   - Bogota
   - Bogotá
