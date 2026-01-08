@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -76.37
 dv_has_place_latitude: 2.45
-dv_name: Popayan
+dv_has_name_: Popayan
 dv_Country: "[[../../../../Colombia]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -74.08
 dv_has_place_latitude: 4.6
-dv_name: Bogota
+dv_has_name_: Bogota
 dv_Country: "[[../../../../Colombia]]"
 ---
 #is_a_/Place  
