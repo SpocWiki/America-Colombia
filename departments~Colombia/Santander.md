@@ -40,17 +40,17 @@ markerFolder: ./Santander/
 
 ## Confidential Links & Embeds: 
 
-### [Santander](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Santander.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Santander|Santander]] 
 
-### [Santander.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Santander.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Santander.public|Santander.public]] 
 
-### [Santander.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Santander.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Santander.internal|Santander.internal]] 
 
-### [Santander.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Santander.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Santander.protect|Santander.protect]] 
 
-### [Santander.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Santander.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Santander.private|Santander.private]] 
 
-### [Santander.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Santander.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Santander.personal|Santander.personal]] 
 
-### [Santander.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Santander.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Santander.secret|Santander.secret]] 
 

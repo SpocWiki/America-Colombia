@@ -40,17 +40,17 @@ markerFolder: ./Caquetá/
 
 ## Confidential Links & Embeds: 
 
-### [Caquetá](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Caquetá.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Caquetá|Caquetá]] 
 
-### [Caquetá.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Caquetá.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Caquetá.public|Caquetá.public]] 
 
-### [Caquetá.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Caquetá.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Caquetá.internal|Caquetá.internal]] 
 
-### [Caquetá.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Caquetá.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Caquetá.protect|Caquetá.protect]] 
 
-### [Caquetá.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Caquetá.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Caquetá.private|Caquetá.private]] 
 
-### [Caquetá.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Caquetá.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Caquetá.personal|Caquetá.personal]] 
 
-### [Caquetá.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Caquetá.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Caquetá.secret|Caquetá.secret]] 
 

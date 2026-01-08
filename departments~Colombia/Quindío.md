@@ -40,17 +40,17 @@ markerFolder: ./Quindío/
 
 ## Confidential Links & Embeds: 
 
-### [Quindío](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Quindío.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Quindío|Quindío]] 
 
-### [Quindío.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Quindío.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Quindío.public|Quindío.public]] 
 
-### [Quindío.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Quindío.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Quindío.internal|Quindío.internal]] 
 
-### [Quindío.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Quindío.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Quindío.protect|Quindío.protect]] 
 
-### [Quindío.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Quindío.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Quindío.private|Quindío.private]] 
 
-### [Quindío.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Quindío.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Quindío.personal|Quindío.personal]] 
 
-### [Quindío.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Quindío.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Quindío.secret|Quindío.secret]] 
 

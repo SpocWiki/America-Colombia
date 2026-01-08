@@ -40,17 +40,17 @@ markerFolder: ./Antioquia/
 
 ## Confidential Links & Embeds: 
 
-### [Antioquia](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Antioquia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Antioquia|Antioquia]] 
 
-### [Antioquia.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Antioquia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Antioquia.public|Antioquia.public]] 
 
-### [Antioquia.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Antioquia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Antioquia.internal|Antioquia.internal]] 
 
-### [Antioquia.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Antioquia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Antioquia.protect|Antioquia.protect]] 
 
-### [Antioquia.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Antioquia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Antioquia.private|Antioquia.private]] 
 
-### [Antioquia.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Antioquia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Antioquia.personal|Antioquia.personal]] 
 
-### [Antioquia.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Antioquia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Antioquia.secret|Antioquia.secret]] 
 

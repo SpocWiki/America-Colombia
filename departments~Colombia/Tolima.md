@@ -40,17 +40,17 @@ markerFolder: ./Tolima/
 
 ## Confidential Links & Embeds: 
 
-### [Tolima](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Tolima.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Tolima|Tolima]] 
 
-### [Tolima.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Tolima.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Tolima.public|Tolima.public]] 
 
-### [Tolima.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Tolima.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Tolima.internal|Tolima.internal]] 
 
-### [Tolima.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Tolima.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Tolima.protect|Tolima.protect]] 
 
-### [Tolima.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Tolima.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Tolima.private|Tolima.private]] 
 
-### [Tolima.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Tolima.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Tolima.personal|Tolima.personal]] 
 
-### [Tolima.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Tolima.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Tolima.secret|Tolima.secret]] 
 

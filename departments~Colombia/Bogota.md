@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Bogotá,2841|WD~Bogotá,2841]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Bogotá,2841|WD~Bogotá,2841]]"
+
 has_time_started: 1538-08-16 
 aliases:
   - Bogota
@@ -184,7 +188,7 @@ UN_LOCODE: COBOG
 
 # [[Bogota]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Bogotá,2841|WD~Bogotá,2841]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -215,17 +219,17 @@ markerFolder: ./Bogota/
 
 ## Confidential Links & Embeds: 
 
-### [Bogota](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota|Bogota]] 
 
-### [Bogota.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota.public|Bogota.public]] 
 
-### [Bogota.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota.internal|Bogota.internal]] 
 
-### [Bogota.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota.protect|Bogota.protect]] 
 
-### [Bogota.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota.private|Bogota.private]] 
 
-### [Bogota.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota.personal|Bogota.personal]] 
 
-### [Bogota.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota.secret|Bogota.secret]] 
 

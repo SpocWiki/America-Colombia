@@ -40,17 +40,17 @@ markerFolder: ./Risaralda/
 
 ## Confidential Links & Embeds: 
 
-### [Risaralda](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Risaralda|Risaralda]] 
 
-### [Risaralda.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Risaralda.public|Risaralda.public]] 
 
-### [Risaralda.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Risaralda.internal|Risaralda.internal]] 
 
-### [Risaralda.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Risaralda.protect|Risaralda.protect]] 
 
-### [Risaralda.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Risaralda.private|Risaralda.private]] 
 
-### [Risaralda.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Risaralda.personal|Risaralda.personal]] 
 
-### [Risaralda.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Risaralda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Risaralda.secret|Risaralda.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Bolívar/
 
 ## Confidential Links & Embeds: 
 
-### [Bolívar](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bolívar|Bolívar]] 
 
-### [Bolívar.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bolívar.public|Bolívar.public]] 
 
-### [Bolívar.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bolívar.internal|Bolívar.internal]] 
 
-### [Bolívar.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bolívar.protect|Bolívar.protect]] 
 
-### [Bolívar.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bolívar.private|Bolívar.private]] 
 
-### [Bolívar.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bolívar.personal|Bolívar.personal]] 
 
-### [Bolívar.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Bolívar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bolívar.secret|Bolívar.secret]] 
 

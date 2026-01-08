@@ -38,21 +38,19 @@ markerFolder: ./Guainía/
 ```
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Guainía](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Guainía.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Guainía|Guainía]] 
 
-### [Guainía.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Guainía.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Guainía.public|Guainía.public]] 
 
-### [Guainía.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Guainía.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Guainía.internal|Guainía.internal]] 
 
-### [Guainía.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Guainía.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Guainía.protect|Guainía.protect]] 
 
-### [Guainía.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Guainía.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Guainía.private|Guainía.private]] 
 
-### [Guainía.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Guainía.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Guainía.personal|Guainía.personal]] 
 
-### [Guainía.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Guainía.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Guainía.secret|Guainía.secret]] 
 

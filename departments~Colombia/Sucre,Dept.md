@@ -43,17 +43,17 @@ markerFolder: ./Sucre/
 
 ## Confidential Links & Embeds: 
 
-### [Sucre](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Sucre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Sucre,Dept|Sucre,Dept]] 
 
-### [Sucre.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Sucre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Sucre,Dept.public|Sucre,Dept.public]] 
 
-### [Sucre.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Sucre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Sucre,Dept.internal|Sucre,Dept.internal]] 
 
-### [Sucre.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Sucre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Sucre,Dept.protect|Sucre,Dept.protect]] 
 
-### [Sucre.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Sucre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Sucre,Dept.private|Sucre,Dept.private]] 
 
-### [Sucre.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Sucre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Sucre,Dept.personal|Sucre,Dept.personal]] 
 
-### [Sucre.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Sucre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Sucre,Dept.secret|Sucre,Dept.secret]] 
 

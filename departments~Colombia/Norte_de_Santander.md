@@ -41,17 +41,17 @@ markerFolder: ./Norte_de_Santander/
 
 ## Confidential Links & Embeds: 
 
-### [Norte_de_Santander](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Norte_de_Santander|Norte_de_Santander]] 
 
-### [Norte_de_Santander.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Norte_de_Santander.public|Norte_de_Santander.public]] 
 
-### [Norte_de_Santander.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Norte_de_Santander.internal|Norte_de_Santander.internal]] 
 
-### [Norte_de_Santander.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Norte_de_Santander.protect|Norte_de_Santander.protect]] 
 
-### [Norte_de_Santander.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Norte_de_Santander.private|Norte_de_Santander.private]] 
 
-### [Norte_de_Santander.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Norte_de_Santander.personal|Norte_de_Santander.personal]] 
 
-### [Norte_de_Santander.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Norte_de_Santander.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Norte_de_Santander.secret|Norte_de_Santander.secret]] 
 

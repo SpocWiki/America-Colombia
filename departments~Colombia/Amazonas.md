@@ -40,17 +40,17 @@ markerFolder: ./Amazonas/
 
 ## Confidential Links & Embeds: 
 
-### [Amazonas](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Amazonas|Amazonas]] 
 
-### [Amazonas.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Amazonas.public|Amazonas.public]] 
 
-### [Amazonas.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Amazonas.internal|Amazonas.internal]] 
 
-### [Amazonas.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Amazonas.protect|Amazonas.protect]] 
 
-### [Amazonas.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Amazonas.private|Amazonas.private]] 
 
-### [Amazonas.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Amazonas.personal|Amazonas.personal]] 
 
-### [Amazonas.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Amazonas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Amazonas.secret|Amazonas.secret]] 
 

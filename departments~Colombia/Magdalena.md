@@ -40,17 +40,17 @@ markerFolder: ./Magdalena/
 
 ## Confidential Links & Embeds: 
 
-### [Magdalena](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Magdalena|Magdalena]] 
 
-### [Magdalena.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Magdalena.public|Magdalena.public]] 
 
-### [Magdalena.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Magdalena.internal|Magdalena.internal]] 
 
-### [Magdalena.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Magdalena.protect|Magdalena.protect]] 
 
-### [Magdalena.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Magdalena.private|Magdalena.private]] 
 
-### [Magdalena.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Magdalena.personal|Magdalena.personal]] 
 
-### [Magdalena.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Magdalena.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Magdalena.secret|Magdalena.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Nariño/
 
 ## Confidential Links & Embeds: 
 
-### [Nariño](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Nariño.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Nariño|Nariño]] 
 
-### [Nariño.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Nariño.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Nariño.public|Nariño.public]] 
 
-### [Nariño.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Nariño.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Nariño.internal|Nariño.internal]] 
 
-### [Nariño.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Nariño.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Nariño.protect|Nariño.protect]] 
 
-### [Nariño.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Nariño.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Nariño.private|Nariño.private]] 
 
-### [Nariño.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Nariño.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Nariño.personal|Nariño.personal]] 
 
-### [Nariño.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Nariño.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Nariño.secret|Nariño.secret]] 
 

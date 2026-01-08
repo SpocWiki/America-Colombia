@@ -40,17 +40,17 @@ markerFolder: ./Vaupés/
 
 ## Confidential Links & Embeds: 
 
-### [Vaupés](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vaupés|Vaupés]] 
 
-### [Vaupés.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vaupés.public|Vaupés.public]] 
 
-### [Vaupés.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vaupés.internal|Vaupés.internal]] 
 
-### [Vaupés.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vaupés.protect|Vaupés.protect]] 
 
-### [Vaupés.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vaupés.private|Vaupés.private]] 
 
-### [Vaupés.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vaupés.personal|Vaupés.personal]] 
 
-### [Vaupés.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Vaupés.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vaupés.secret|Vaupés.secret]] 
 

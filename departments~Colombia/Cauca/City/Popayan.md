@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33456
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -76.37
+dv_has_place_latitude: 2.45
+dv_name: Popayan
+dv_Country: "[[../../../../Colombia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-76.37] 
-[has_place_latitude::2.45] 
-[name::Popayan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Colombia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Popayan](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Cauca/City/Popayan|Popayan]] 
 
-### [Popayan.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Cauca/City/Popayan.public|Popayan.public]] 
 
-### [Popayan.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Cauca/City/Popayan.internal|Popayan.internal]] 
 
-### [Popayan.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Cauca/City/Popayan.protect|Popayan.protect]] 
 
-### [Popayan.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Cauca/City/Popayan.private|Popayan.private]] 
 
-### [Popayan.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Cauca/City/Popayan.personal|Popayan.personal]] 
 
-### [Popayan.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Cauca/City/Popayan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Cauca/City/Popayan.secret|Popayan.secret]] 
 

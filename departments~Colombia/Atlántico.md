@@ -40,17 +40,17 @@ markerFolder: ./Atlántico/
 
 ## Confidential Links & Embeds: 
 
-### [Atlántico](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Atlántico.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Atlántico|Atlántico]] 
 
-### [Atlántico.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Atlántico.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Atlántico.public|Atlántico.public]] 
 
-### [Atlántico.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Atlántico.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Atlántico.internal|Atlántico.internal]] 
 
-### [Atlántico.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Atlántico.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Atlántico.protect|Atlántico.protect]] 
 
-### [Atlántico.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Atlántico.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Atlántico.private|Atlántico.private]] 
 
-### [Atlántico.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Atlántico.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Atlántico.personal|Atlántico.personal]] 
 
-### [Atlántico.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Atlántico.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Atlántico.secret|Atlántico.secret]] 
 

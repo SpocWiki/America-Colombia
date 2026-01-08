@@ -40,17 +40,17 @@ markerFolder: ./Chocó/
 
 ## Confidential Links & Embeds: 
 
-### [Chocó](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Chocó|Chocó]] 
 
-### [Chocó.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Chocó.public|Chocó.public]] 
 
-### [Chocó.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Chocó.internal|Chocó.internal]] 
 
-### [Chocó.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Chocó.protect|Chocó.protect]] 
 
-### [Chocó.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Chocó.private|Chocó.private]] 
 
-### [Chocó.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Chocó.personal|Chocó.personal]] 
 
-### [Chocó.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Chocó.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Chocó.secret|Chocó.secret]] 
 

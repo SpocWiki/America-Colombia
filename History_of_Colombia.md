@@ -4,15 +4,18 @@ aliases:
   - History_of_Colombia
   - History of Colombia
 has_id_wikidata: Q1044401
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~Colombia,739]]'
+instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+facet_of: "[[_Standards/WikiData/WD~Colombia,739]]"
 Dewey_Decimal_Classification: 986
 Commons_category: History of Colombia
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Colombia,1044401]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Colombia,1044401]]"
 ---
 
 # [[History_of_Colombia]] 
 
-#is_/same_as :: [[WD~History_of_Colombia,1044401]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -25,4 +28,21 @@ Commons_category: History of Colombia
 > and Colombia's geographic and climatic variations have contributed to the development of strong regional identities.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Colombia) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/History_of_Colombia|History_of_Colombia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/History_of_Colombia.public|History_of_Colombia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/History_of_Colombia.internal|History_of_Colombia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/History_of_Colombia.protect|History_of_Colombia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/History_of_Colombia.private|History_of_Colombia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/History_of_Colombia.personal|History_of_Colombia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/History_of_Colombia.secret|History_of_Colombia.secret]] 
 

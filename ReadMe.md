@@ -24,84 +24,150 @@ cssclasses:
   - Country
 publish: true
 title: Chile
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-CL
+dv_ISO4217-currency_alphabetic: CLP
+dv_ISO4217-currency_name: Chilean Peso
+dv_ISO4217-currency_numeric: 152
+dv_ISO4217-currency_minor_unit: 0
+dv_ISO4217-currency_country_name: CHILE
+dv_Telephone: 56
+dv_Global: true
+dv_Global_Name: World
+dv_name: Chile
+dv_name-en:
+  - Chile
+  - Chile
+dv_name-es: Chile
+dv_name-fr: Chili
+dv_name-cn: 智利
+dv_name-ar: شيلي
+dv_name-ru: Чили
+dv_CLDR_display_name: Chile
+dv_UNTERM_English: Chile
+dv_UNTERM_English_Formal: the Republic of Chile
+dv_UNTERM_Spanish_Formal: la República de Chile
+dv_UNTERM_Spanish: Chile
+dv_UNTERM_French: Chili (le)
+dv_UNTERM_Arabic: شيلي
+dv_UNTERM_Arabic_Formal: جمهورية شيلي
+dv_UNTERM_Chinese: 智利
+dv_UNTERM_Chinese_Formal: 智利共和国
+dv_UNTERM_French_Formal: la République du Chili
+dv_UNTERM_Russian: Чили
+dv_UNTERM_Russian_Formal: Республика Чили
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[South America]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 5
+dv_Sub-region: 419
+dv_Geoname-ID: 3895114
+dv_FIPS: CI
+dv_FIFA: CHI
+dv_IOC: CHI
+dv_MARC: cl
+dv_GAUL: 51
+dv_WMO: CH
+dv_ITU: CHL
+dv_DS: RCH
+dv_TLD: .cl
+dv_EDGAR: F3
+dv_M49: 152
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_ISO3166-1-numeric: 152
+dv_ISO2: CL
+dv_ISO3: CHL
+dv_name-de: Chile
+dv_Area-Total: 756626
+dv_Area-Land: 748800
+dv_Continent: "[[South-America]]"
+dv_VehicleCode: RCH
+dv_Capital: "[[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]"
+dv_Alcohol-l: 8.6
+dv_Language-Id: 492
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -70.67
+dv_has_place_latitude: -33.45
+dv_developed_developing_countries: Developing
 ---
 
 
-[	ISO4217-currency_alphabetic	 :: CLP ] 
-[	ISO4217-currency_name	 :: Chilean Peso ] 
-[	ISO4217-currency_numeric	 :: 152 ] 
-[	ISO4217-currency_minor_unit	 :: 0 ] 
-[	ISO4217-currency_country_name	 :: CHILE ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 56 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Chile ] 
+name = `=this.dv_name` 
 [	name-en	 :: Chile ] 
-[	name-es	 :: Chile ] 
-[	name-fr	 :: Chili ] 
-[	name-cn	 :: 智利 ] 
-[	name-ar	 :: شيلي ] 
-[	name-ru	 :: Чили ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Chile ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Chile ] 
-[	UNTERM_English_Formal	 :: the Republic of Chile ] 
-[	UNTERM_Spanish_Formal	 :: la República de Chile ] 
-[	UNTERM_Spanish	 :: Chile ] 
-[	UNTERM_French	 :: Chili (le) ] 
-[	UNTERM_Arabic	 :: شيلي ] 
-[	UNTERM_Arabic_Formal	 :: جمهورية شيلي ] 
-[	UNTERM_Chinese	 :: 智利 ] 
-[	UNTERM_Chinese_Formal	 :: 智利共和国 ] 
-[	UNTERM_French_Formal	 :: la République du Chili ] 
-[	UNTERM_Russian	 :: Чили ] 
-[	UNTERM_Russian_Formal	 :: Республика Чили ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[South America]] 
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ] 
-[	Intermediate_Region	 :: 5 ] 
-[	Sub-region	 :: 419 ] 
+Region = `=this.dv_Region` 
+Intermediate_Region = `=this.dv_Intermediate_Region` 
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 3895114 ] 
-[	FIPS	 :: CI ] 
-[	FIFA	 :: CHI ] 
-[	IOC	 :: CHI ] 
-[	MARC	 :: cl ] 
-[	GAUL	 :: 51 ] 
-[	WMO	 :: CH ] 
-[	ITU	 :: CHL ] 
-[	DS	 :: RCH ] 
-[	TLD	 :: .cl ] 
-[	EDGAR	 :: F3 ] 
-[	M49	 :: 152 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 152 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
 
 
-[ISO2::CL] 
-[ISO3::CHL] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 ```leaflet
 id: Chile
@@ -113,12 +179,12 @@ markerFolder: ./
 ```
 
 [name-en::Chile] 
-[name-de::Chile] 
-[Area-Total::756626] 
-[Area-Land::748800] 
-Continent :: [[South-America]]  
-[VehicleCode::RCH] 
-Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]  
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
 
 ![[../../Southern_Cone/Chile/Coat_of_arms_of_Chile.svg|550]] 
 
@@ -126,27 +192,27 @@ Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]
 
 ![[../../Southern_Cone/Chile/Flag_of_Chile.svg|350]] 
 
-[Alcohol-l::8.6] 
-[Language-Id::492] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-70.67] 
-[has_place_latitude::-33.45] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/America~South/Colombia/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/America~South/Colombia/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/America~South/Colombia/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/America~South/Colombia/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/America~South/Colombia/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/America~South/Colombia/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/America~South/Colombia/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/ReadMe.secret|ReadMe.secret]] 
 

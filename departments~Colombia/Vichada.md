@@ -40,17 +40,17 @@ markerFolder: ./Vichada/
 
 ## Confidential Links & Embeds: 
 
-### [Vichada](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Vichada.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vichada|Vichada]] 
 
-### [Vichada.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Vichada.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vichada.public|Vichada.public]] 
 
-### [Vichada.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Vichada.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vichada.internal|Vichada.internal]] 
 
-### [Vichada.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Vichada.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vichada.protect|Vichada.protect]] 
 
-### [Vichada.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Vichada.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vichada.private|Vichada.private]] 
 
-### [Vichada.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Vichada.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vichada.personal|Vichada.personal]] 
 
-### [Vichada.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Vichada.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Vichada.secret|Vichada.secret]] 
 

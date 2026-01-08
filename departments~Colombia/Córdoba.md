@@ -40,17 +40,17 @@ markerFolder: ./Córdoba/
 
 ## Confidential Links & Embeds: 
 
-### [Córdoba](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Córdoba|Córdoba]] 
 
-### [Córdoba.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Córdoba.public|Córdoba.public]] 
 
-### [Córdoba.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Córdoba.internal|Córdoba.internal]] 
 
-### [Córdoba.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Córdoba.protect|Córdoba.protect]] 
 
-### [Córdoba.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Córdoba.private|Córdoba.private]] 
 
-### [Córdoba.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Córdoba.personal|Córdoba.personal]] 
 
-### [Córdoba.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Córdoba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Córdoba.secret|Córdoba.secret]] 
 

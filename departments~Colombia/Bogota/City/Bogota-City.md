@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29250
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -74.08
+dv_has_place_latitude: 4.6
+dv_name: Bogota
+dv_Country: "[[../../../../Colombia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-74.08] 
-[has_place_latitude::4.6] 
-[name::Bogota] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Colombia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bogota-City](/_Standards/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota/City/Bogota-City|Bogota-City]] 
 
-### [Bogota-City.public](/_public/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota/City/Bogota-City.public|Bogota-City.public]] 
 
-### [Bogota-City.internal](/_internal/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota/City/Bogota-City.internal|Bogota-City.internal]] 
 
-### [Bogota-City.protect](/_protect/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota/City/Bogota-City.protect|Bogota-City.protect]] 
 
-### [Bogota-City.private](/_private/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota/City/Bogota-City.private|Bogota-City.private]] 
 
-### [Bogota-City.personal](/_personal/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota/City/Bogota-City.personal|Bogota-City.personal]] 
 
-### [Bogota-City.secret](/_secret/Earth/Continent/America~South/Colombia/departments~Colombia/Bogota/City/Bogota-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Colombia/departments~Colombia/Bogota/City/Bogota-City.secret|Bogota-City.secret]] 
 
