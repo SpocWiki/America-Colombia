@@ -243,7 +243,7 @@ ethnic_group:
 - '[[/_Standards/WikiData/WD~Mestizo_Colombian,17078871|WD~Mestizo_Colombian,17078871]]'
 - http://www.wikidata.org/.well-known/genid/8eb43186f75b6a03525fb435ed3c925d
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
@@ -985,7 +985,7 @@ dv_ISO2: CO
 dv_ISO3: COL
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Colombia,739|WD~Colombia,739]]'
+  - '[[../../../../../WikiData/WD~Colombia,739|WD~Colombia,739]]'
   - '[[/_Standards/Earth/Continent/America~South/Andes/Colombia|Colombia]]'
   - '[[/_public/Earth/Continent/America~South/Andes/Colombia.public|Colombia.public]]'
   - '[[/_internal/Earth/Continent/America~South/Andes/Colombia.internal|Colombia.internal]]'
@@ -1004,7 +1004,7 @@ dv_has_place_latitude: 3.525
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Colombia
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Colombia,739|WD~Colombia,739]]'
+- '[[../../../../../WikiData/WD~Colombia,739|WD~Colombia,739]]'
 - '[[/_Standards/Earth/Continent/America~South/Andes/Colombia|Colombia]]'
 - '[[/_public/Earth/Continent/America~South/Andes/Colombia.public|Colombia.public]]'
 - '[[/_internal/Earth/Continent/America~South/Andes/Colombia.internal|Colombia.internal]]'
@@ -1022,7 +1022,7 @@ Unicode_character: 🇨🇴
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Colombia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -1090,7 +1090,7 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Colombia,739|WD~Colombia,739]]  
+#is_/same_as :: [[../../../../../WikiData/WD~Colombia,739|WD~Colombia,739]]  
 
 ## #has_/map  
 
@@ -1109,7 +1109,7 @@ markerFile: [[Colombia]]
 
 ```leaflet
 id: Colombia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1133,13 +1133,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Colombia/Counties/Bogota/City/Bogota|Bogota]]  
+Capital :: [[Counties/Bogota/City/Bogota|Bogota]]  
 
-![[Colombia/Coat_of_arms_of_Colombia.svg|550]]
+![[Coat_of_arms_of_Colombia.svg|550]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Colombia.mp3|Anthem-Colombia.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Colombia.mp3|Anthem-Colombia.mp3]]
 
-![[Colombia/Flag_of_Colombia.svg|350]]
+![[Flag_of_Colombia.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
